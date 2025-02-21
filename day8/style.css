@@ -7,7 +7,6 @@
 body{
       padding: 1rem;
 }
-
 .card{
       width: 400px;
       background-color:yellow;
@@ -16,4 +15,14 @@ body{
       margin: 1rem auto;
       padding: 1rem;
       border-radius: .75rem;
+}
+button{
+      padding: 10px 20px;
+      border: 2px solid red;
+      border-radius: 10px;
+      margin: 5px;
+      color: white;
+      background-color: lightcoral;
+      font: bold;
+      font-family: sans-serif;
 }
